@@ -1,4 +1,9 @@
 # Wine-Dataset
 
 Data visualization 
-I have choose country and point (reviews) column  to visualize the data 
+
+country and points
+US region 1 and points
+US region 2 and points
+Country and price
+
