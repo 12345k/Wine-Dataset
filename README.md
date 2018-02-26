@@ -2,8 +2,8 @@
 
 Data visualization 
 
-country and points
-US region 1 and points
-US region 2 and points
+country and points <br>
+US region 1 and points<br>
+US region 2 and points<br>
 Country and price
 
